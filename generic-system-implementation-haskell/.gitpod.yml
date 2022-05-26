@@ -1,0 +1,15 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - init: |
+      cabal update
+      cabal build
+      # stack build
+
+    command: |
+      cabal test
+      # stack test
+
+vscode:
+  extensions:
+    - haskell.haskell
