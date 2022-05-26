@@ -8,15 +8,15 @@ Also, provided these implementations are any good (while surely not perfect, the
 
 This will list every project that is added here, with some of the areas covered in it.
 
-- [Network system implementation](./generic-system-implementation-haskell)
-    - **Language:** Haskell
-    - **Time:** 1 week.
-    - Sockets
-    - Concurrent programming
-    - Queues, transactions, STM
-    - Stream processing
-- [Text processing implementation](./text-processing-challenge-cpp)
-    - **Languge:** C++11
-    - **Time:** 3 hours
-    - File processing
-    - Data analysis
+- [Network system implementation](./network-system-haskell)
+  - **Language:** Haskell
+  - **Time:** 1 week.
+  - Sockets
+  - Concurrent programming
+  - Queues, transactions, STM
+  - Stream processing
+- [Text processing implementation](./text-processing-cpp)
+  - **Languge:** C++11
+  - **Time:** 3 hours
+  - File processing
+  - Data analysis
