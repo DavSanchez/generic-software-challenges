@@ -10,7 +10,13 @@ This will list every project that is added here, with some of the areas covered 
 
 - [Network system implementation](./generic-system-implementation-haskell)
     - **Language:** Haskell
+    - **Time:** 1 week.
     - Sockets
     - Concurrent programming
     - Queues, transactions, STM
     - Stream processing
+- [Text processing implementation](./text-processing-challenge-cpp)
+    - **Languge:** C++11
+    - **Time:** 3 hours
+    - File processing
+    - Data analysis
