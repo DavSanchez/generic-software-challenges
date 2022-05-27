@@ -13,8 +13,8 @@ This will list every project that is added here, with some of the areas covered 
   - **Time:** 1 week
   - System design
   - Sockets
-  - Concurrent programming
-  - Queues, transactions, STM
+  - Concurrent programming, STM
+  - Queues
   - Stream processing
 - [Text processing implementation](./text-processing-cpp)
   - **Languge:** C++11
