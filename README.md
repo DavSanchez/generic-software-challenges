@@ -8,7 +8,7 @@ Also, provided these implementations are good (while surely not perfect, each on
 
 This will list every project that is added here, with some of the areas covered in it.
 
-- [Network system implementation](./network-system-haskell)
+- [Network system](./network-system-haskell)
   - **Language:** Haskell
   - **Time:** 1 week
   - System design
@@ -16,8 +16,17 @@ This will list every project that is added here, with some of the areas covered 
   - Concurrent programming, STM
   - Queues
   - Stream processing
-- [Text processing implementation](./text-processing-cpp)
-  - **Languge:** C++11
+  - Property, behavior and integration testing.
+- [Text processing](./text-processing-cpp)
+  - **Language:** C++11
   - **Time:** 3 hours
   - File processing
   - Data analysis
+- [Search engine](./search-engine-rust)
+  - **Language:** Rust
+  - **Time:** 2 hours
+  - File processing
+  - Data analysis
+  - Inverted index
+  - Interactive CLI
+  - Unit testing
