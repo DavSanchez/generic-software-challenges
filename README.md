@@ -10,7 +10,8 @@ This will list every project that is added here, with some of the areas covered 
 
 - [Network system implementation](./network-system-haskell)
   - **Language:** Haskell
-  - **Time:** 1 week.
+  - **Time:** 1 week
+  - System design
   - Sockets
   - Concurrent programming
   - Queues, transactions, STM
