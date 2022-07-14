@@ -30,3 +30,8 @@ This will list every project that is added here, with some of the areas covered 
   - Inverted index
   - Interactive CLI
   - Unit testing
+- [IDE plugin](./ide-plugin-cpp)
+  - **Language:** C++
+  - **Time:** 2 hours
+  - Tries (data structure)
+  - Pattern matching
